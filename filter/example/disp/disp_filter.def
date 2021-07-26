@@ -1,0 +1,5 @@
+LIBRARY disp_filter
+
+EXPORTS
+	GetFilterTable @1
+

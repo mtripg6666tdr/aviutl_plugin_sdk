@@ -1,0 +1,6 @@
+LIBRARY yuy2_filter
+
+EXPORTS
+	GetFilterTable @1
+	GetFilterTableYUY2 @2
+

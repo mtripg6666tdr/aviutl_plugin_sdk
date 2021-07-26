@@ -1,0 +1,18 @@
+#include "edit_filter.h"
+
+FILTER MENU
+{
+	POPUP "編集" {
+		MENUITEM "映像のみコピー",MID_EDIT_VIDEO_COPY
+		MENUITEM "音声のみコピー",MID_EDIT_AUDIO_COPY
+		MENUITEM "コピー",MID_EDIT_COPY
+		MENUITEM "貼り付け",MID_EDIT_PASTE
+		MENUITEM "削除",MID_EDIT_DELETE
+		MENUITEM "挿入",MID_EDIT_INSERT
+	}
+	POPUP "その他" {
+		MENUITEM "ファイル情報",MID_EDIT_FILE_INFO
+	}
+}
+
+

@@ -1,0 +1,5 @@
+LIBRARY video_filter
+
+EXPORTS
+	GetFilterTable @1
+

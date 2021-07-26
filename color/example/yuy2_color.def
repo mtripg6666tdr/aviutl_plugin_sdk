@@ -1,0 +1,4 @@
+LIBRARY yuy2_color
+EXPORTS
+	GetColorPluginTable @1
+

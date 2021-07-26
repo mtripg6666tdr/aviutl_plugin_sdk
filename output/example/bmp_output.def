@@ -1,0 +1,5 @@
+LIBRARY bmp_output
+
+EXPORTS
+	GetOutputPluginTable @1
+

@@ -1,0 +1,5 @@
+LIBRARY interlace_filter
+
+EXPORTS
+	GetFilterTable @1
+
